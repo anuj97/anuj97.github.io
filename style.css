@@ -1,0 +1,86 @@
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.navbar-decription {
+    font-weight: 400;
+}
+
+#blue-marker {
+    height: 15px;
+    width: 15px;
+    background-color: blue;
+    margin: 0.5em;
+}
+
+.navbar-brand {
+    font-weight: 750;
+    
+}
+
+.navbar {
+    height: 5rem;
+    background-color: white!important;
+}
+
+#background {
+    height: 100vh;
+    width: 100vw;
+    z-index: -100;
+    position: absolute;
+}
+
+
+
+.colored {
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+
+.content {
+    height: 100vh;
+    width: 100vw;
+}
+
+.contact-card {
+    height: 100%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+
+
+.card-body {
+    padding: 0px;
+}
+
+.card {
+    box-shadow: -5px 5px 10px 2px grey;
+}
+
+.footer {
+    background-color: white!important;
+}
+
+
+
+.image {
+    height: 13em;
+    width: 13em;
+    border-radius: 100%;
+    margin: 2em;
+}
+
+.blue-seperator {
+    height: 2px;
+    width: 40%;
+    margin: auto;
+    background-color: blue;
+}
+
+.social-bar {
+    height: 10px;
+    background-color: white;
+}
